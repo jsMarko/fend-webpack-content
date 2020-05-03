@@ -3,6 +3,7 @@ const webpack = require("webpack")
 
 module.exports = {
    entry: "./src/client/index.js",
+   output: {}, // <----- here maybe?
    module: {
       rules: [
          {
