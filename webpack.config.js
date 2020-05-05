@@ -12,5 +12,5 @@ module.exports = {
          },
       ],
    },
-   output: {},
+   // output: {}, This will come later
 }
