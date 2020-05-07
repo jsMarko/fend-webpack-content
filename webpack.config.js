@@ -19,5 +19,5 @@ module.exports = {
          filename: "./index.html",
       }),
    ],
-   // output: {}, This will come later
+   // ! output: {}, This will come later
 }
